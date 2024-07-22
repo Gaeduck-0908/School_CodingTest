@@ -3,5 +3,6 @@
 ### code.txt = 코드
 ## 사용언어
 ### C, C#, C++, Python, Java
-# [1등] [2022-09-13]
-![image](https://user-images.githubusercontent.com/82009667/189778679-89d1aa74-963f-4087-ab1c-2f249836cbab.png)
+# [1등] [2024-07-22]
+![image](https://github.com/user-attachments/assets/f0031e67-2636-43d3-8a6f-09fe5ab5809f)
+
